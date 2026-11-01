@@ -3,8 +3,6 @@
 A modern Full-Stack E-Commerce Website built with **Spring Boot 3** and **React**.
 
 
-https://github.com/user-attachments/assets/c8f39a48-1b21-4a6a-adca-0a65a1eef143
-
 
 ## ✨ Features
 
